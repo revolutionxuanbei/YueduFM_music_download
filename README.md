@@ -14,3 +14,6 @@ http://yuedu.fm/article/882/
 播客的url如这种形式
 
 http://yuedu.fm/article/882/
+
+#### EXE文件版
+下载发行版V1.EXE
